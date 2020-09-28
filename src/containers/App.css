@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Cronica Gradient Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Cronica Gradient Regular"),
+    url("./fonts/CronicaGradient.woff") format("woff");
+}
+
+h1 {
+  font-family: "Cronica Gradient Regular";
+  font-weight: 200;
+  color: #00e5e5;
+}
