@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ZTM_robofriends/static/css/main.6317fc8c.chunk.css",
+    "main.js": "/ZTM_robofriends/static/js/main.a20001ae.chunk.js",
+    "main.js.map": "/ZTM_robofriends/static/js/main.a20001ae.chunk.js.map",
+    "runtime-main.js": "/ZTM_robofriends/static/js/runtime-main.9bab4df4.js",
+    "runtime-main.js.map": "/ZTM_robofriends/static/js/runtime-main.9bab4df4.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ZTM_robofriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/ZTM_robofriends/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/ZTM_robofriends/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/ZTM_robofriends/index.html",
+    "precache-manifest.eea66a063e8c8d6cfb5ba223f784c941.js": "/ZTM_robofriends/precache-manifest.eea66a063e8c8d6cfb5ba223f784c941.js",
+    "service-worker.js": "/ZTM_robofriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ZTM_robofriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.6317fc8c.chunk.css.map": "/ZTM_robofriends/static/css/main.6317fc8c.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/ZTM_robofriends/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ZTM_robofriends/static/media/CronicaGradient.d8dfe011.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bab4df4.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.6317fc8c.chunk.css",
+    "static/js/main.a20001ae.chunk.js"
+  ]
+}
